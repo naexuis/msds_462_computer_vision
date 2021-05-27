@@ -1,2 +1,2 @@
-# msds_462_computer_vision
+# Name That Dog App
  project folder for course
